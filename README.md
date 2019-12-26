@@ -1,1 +1,1 @@
-# cherrytree_templates
+# Cherry Tree Templates
