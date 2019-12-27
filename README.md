@@ -1,3 +1,1 @@
 # Cherry Tree Templates
-
-### Teste
